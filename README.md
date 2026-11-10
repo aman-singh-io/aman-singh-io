@@ -20,8 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer** focused on building modern, responsive, and high-converting web applications. Combining solid software engineering foundations with cutting-edge methodologies like **Spec-Driven Development (OpenSpec)** and **AI-assisted workflows (Claude, Cursor)**, I deliver enterprise-grade code faster and smarter.
-
+I'm a **Software Engineer** focused on building modern, responsive, and high-converting web applications. Combining solid software engineering foundations with cutting-edge methodologies like **Spec-Driven Development (OpenSpec)** and **AI-assisted workflows (Claude, Cursor)**.<br/><br/>
 I care about clean architecture, strict typing, user experience, and shipping maintainable features built for performance.
 
 ```typescript
