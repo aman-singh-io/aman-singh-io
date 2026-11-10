@@ -45,13 +45,13 @@ const engineer: Engineer = {
   stack: {
     frontend: ["React", "Next.js 15", "TypeScript", "Tailwind CSS", "shadcn/ui"],
     backend: ["Node.js", "Python", "Express", "MongoDB", "Sanity CMS", "Stripe API"],
-    methodologies: ["Spec-Driven Development (OpenSpec)", "AI-Assisted Engineering (Claude/Cursor)", "RESTful APIs"]
+    methodologies: ["Spec-Driven Development (OpenSpec...)", "AI-Assisted Engineering (Claude/Cursor...)", "RESTful APIs"]
   },
   getMission: () => "Combining solid engineering roots with AI & Spec-Driven workflows to craft scalable web products."
 };
 ```
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 Today, I seamlessly combine my software engineering roots with modern methodologies like **Spec-Driven Development (OpenSpec)** and advanced **AI-assisted workflows (Claude, Cursor)** to deliver high-performance, conversion-optimized web applications faster and smarter.
 
@@ -77,12 +77,10 @@ Today, I seamlessly combine my software engineering roots with modern methodolog
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
----
-
 ## ⚡ Work Ethic & Methodologies
 
-- 📐 **Spec-Driven Engineering (OpenSpec):** Writing clear specifications before coding to eliminate scope creep and ensure rock-solid architecture.
-- 🤖 **AI-Augmented Velocity:** Leveraging Claude to maximize productivity, optimize code quality, and accelerate feature shipping.
+- 📐 **Spec-Driven Engineering:** Writing clear specifications before coding to eliminate scope creep and ensure rock-solid architecture.
+- 🤖 **AI-Augmented Velocity:** Leveraging AI to maximize productivity, optimize code quality, and accelerate feature shipping.
 - 🔒 **Repository Privacy & Security:** Not all of my projects are listed here. Several production codebases, client work, and ongoing developments remain in private repositories for security and NDA compliance.
 - 🤝 **Open to:** Full-time software engineering roles, high-impact freelance projects, and tech collaborations.
 
