@@ -86,7 +86,3 @@ Today, I seamlessly combine my software engineering roots with modern methodolog
 |---|---|---|
 | 🎨 **[Creative Lab](https://github.com/amxnos20/creative-lab)** | A high-converting landing page for creative agencies featuring dynamic CMS integration, automated lead ingestion, and Stripe payment processing. | Next.js 15 · TypeScript · Tailwind CSS · Sanity CMS · Stripe · Notion CRM |
 
-<p align="center">
-  <a href="https://github.com/aman-singh-io?tab=repositories"><b>➡️ See all repositories</b></a>
-</p>
-
