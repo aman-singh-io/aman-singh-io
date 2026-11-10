@@ -80,9 +80,19 @@ Today, I seamlessly combine my software engineering roots with modern methodolog
 
 ---
 
+## ⚡ Work Ethic & Methodologies
+
+- 📐 **Spec-Driven Engineering (OpenSpec):** Writing clear specifications before coding to eliminate scope creep and ensure rock-solid architecture.
+- 🤖 **AI-Augmented Velocity:** Leveraging Claude to maximize productivity, optimize code quality, and accelerate feature shipping.
+- 🔒 **Repository Privacy & Security:** Not all of my projects are listed here. Several production codebases, client work, and ongoing developments remain in private repositories for security and NDA compliance.
+- 🤝 **Open to:** Full-time software engineering roles, high-impact freelance projects, and tech collaborations.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎨 **[Creative Lab](https://github.com/amxnos20/creative-lab)** | A high-converting landing page for creative agencies featuring dynamic CMS integration, automated lead ingestion, and Stripe payment processing. | Next.js 15 · TypeScript · Tailwind CSS · Sanity CMS · Stripe · Notion CRM |
+
 
