@@ -81,7 +81,7 @@ Today, I seamlessly combine my software engineering roots with modern methodolog
 
 - 📐 **Spec-Driven Engineering:** Writing clear specifications before coding to eliminate scope creep and ensure rock-solid architecture.
 - 🤖 **AI-Augmented Velocity:** Leveraging AI to maximize productivity, optimize code quality, and accelerate feature shipping.
-- 🔒 **Repository Privacy & Security:** Not all of my projects are listed here. Several production codebases, client work, and ongoing developments remain in private repositories for security and NDA compliance.
+- 🔒 **Repository Privacy & Security:** Not all of my projects are listed here. Several production codebases, client work, personal projects, and ongoing developments remain in private repositories for security.
 - 🤝 **Open to:** Full-time software engineering roles, high-impact freelance projects, and tech collaborations.
 
 ---
