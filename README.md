@@ -91,4 +91,5 @@ Today, I seamlessly combine my software engineering roots with modern methodolog
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎨 **[Creative Lab](https://github.com/amxnos20/creative-lab)** | A high-converting landing page for creative agencies featuring dynamic CMS integration, automated lead ingestion, and Stripe payment processing. | Next.js 15 · TypeScript · Tailwind CSS · Sanity CMS · Stripe · Notion CRM |
+| 🚀 **[iBuilt](https://github.com/amxnos20/ibuilt)** | A community-focused product discovery platform for creators to showcase project launches, featuring passkey authentication, serverless PostgreSQL, and real-time community upvoting. | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Clerk · NeonDB · Drizzle ORM |
 | 🤖 **[AI Docs Assistant](https://github.com/amxnos20/ai-docs-assistant)** | An intelligent platform to query complex documentation and long files via an interactive AI chatbot, chapter-by-chapter summaries, and automated question generation. | Next.js 15 · TypeScript · Tailwind CSS · Vector Search · OpenAI / LLM API |
